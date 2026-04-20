@@ -30,7 +30,11 @@ A modern, responsive **Beats headphones landing page** built using **HTML** and 
   * Michroma
   * Orbitron
 preview
+
+[live](https://elbineldhose007.github.io/beats_landing/)
+
 ![img](./BeatsLandingPage.png)
+
 
 ---
 
